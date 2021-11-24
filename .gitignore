@@ -1,0 +1,7 @@
+.idea
+
+HIIN.db
+
+*.pyc
+
+__pycache__
